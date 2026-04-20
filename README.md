@@ -42,7 +42,7 @@ Dataset (Excel)
 Dashboard screenshots
 
 📸 Dashboard Preview
-![Dashboard](results/DASHBOARD.PNG)
+![Dashboard](results/DASHBOARD.png)
 
 
 
