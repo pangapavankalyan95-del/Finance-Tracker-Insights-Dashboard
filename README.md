@@ -16,11 +16,13 @@ KPI Cards (Income, Expense, Savings)
 Expense category analysis (Bar chart)
 Trend analysis (Line chart)
 preview
-![dashboard](results/savings&investments_trend)
+![dashboard](results/savings_investments_trend.png)
 
-![dashboard](results/networth_trend)
+-----Networth Trend--------
+![dashboard](results/networth_trend.png)
 
-![dashboard](results/expense_trend)
+-----Expense Trend-----
+![dashboard](results/expense_trend.png)
 
 
 Timeline slicer (Year/Month filter)
