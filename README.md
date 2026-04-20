@@ -18,9 +18,9 @@ Trend analysis (Line chart)
 preview
 ![dashboard](results/savings&investments_trend)
 
-![dashboard](networth_trend)
+![dashboard](results/networth_trend)
 
-![dashboard](expense_trend)
+![dashboard](results/expense_trend)
 
 
 Timeline slicer (Year/Month filter)
@@ -40,7 +40,7 @@ Dataset (Excel)
 Dashboard screenshots
 
 📸 Dashboard Preview
-![Dashboard](DASHBOARD.PNG)
+![Dashboard](results/DASHBOARD.PNG)
 
 
 
