@@ -15,6 +15,14 @@ Identify high-expense categories
 KPI Cards (Income, Expense, Savings)
 Expense category analysis (Bar chart)
 Trend analysis (Line chart)
+preview
+![dashboard](savings&investments_trend)
+
+![dashboard](networth_trend)
+
+![dashboard](expense_trend)
+
+
 Timeline slicer (Year/Month filter)
 Tooltips for deep insights (EMI & Net Worth)
 
@@ -32,7 +40,9 @@ Dataset (Excel)
 Dashboard screenshots
 
 📸 Dashboard Preview
-(Upload screenshots here)
+![Dashboard](DASHBOARD.PNG)
+
+
 
 
 📈 Key Insights
