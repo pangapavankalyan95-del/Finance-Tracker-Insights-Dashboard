@@ -16,7 +16,7 @@ KPI Cards (Income, Expense, Savings)
 Expense category analysis (Bar chart)
 Trend analysis (Line chart)
 preview
-![dashboard](savings&investments_trend)
+![dashboard](results/savings&investments_trend)
 
 ![dashboard](networth_trend)
 
